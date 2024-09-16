@@ -21,7 +21,7 @@ This repository contains an Android chat application with a clear and simple UI,
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repository-url](https://github.com/Vinoth-Android/Chat-App/)
+   git clone (https://github.com/Vinoth-Android/Chat-App/)
    ```
 2. Open the project in Android Studio.
 3. Sync Gradle files and build the project.
